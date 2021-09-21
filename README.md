@@ -1,2 +1,2 @@
-# astr_8060_f21
-Main repository for fall 2021 ASTR8060.
+# Fall 2021 ASTR8060, Vanderbilt University
+Git repository for class data reduction assignments.
